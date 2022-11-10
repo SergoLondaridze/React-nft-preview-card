@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reactcard1/static/css/main.4e3d3858.css",
+    "main.js": "/Reactcard1/static/js/main.44470aaf.js",
+    "static/js/787.0aae4b89.chunk.js": "/Reactcard1/static/js/787.0aae4b89.chunk.js",
+    "static/media/image-equilibrium.jpg": "/Reactcard1/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/Reactcard1/index.html",
+    "static/media/icon-view.svg": "/Reactcard1/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/Reactcard1/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/Reactcard1/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.4e3d3858.css.map": "/Reactcard1/static/css/main.4e3d3858.css.map",
+    "main.44470aaf.js.map": "/Reactcard1/static/js/main.44470aaf.js.map",
+    "787.0aae4b89.chunk.js.map": "/Reactcard1/static/js/787.0aae4b89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e3d3858.css",
+    "static/js/main.44470aaf.js"
+  ]
+}
